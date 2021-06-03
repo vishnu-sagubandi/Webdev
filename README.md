@@ -1,2 +1,2 @@
 # Webdev
-My static website
+My first static website
